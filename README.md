@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarasprogram&label=Profile%20views&color=0e75b6&style=flat" alt="swarasprogram" /> </p>
 
-- 🔭 I’m currently working on [Biaslens](https://github.com/swarasprogram/BiasLens.git)
+- 🔭 I’m currently working on [prep-partner]((https://github.com/swarasprogram/prep-partner))
 
 - 🌱 I’m currently learning **Dotnet,Langchain**
 
