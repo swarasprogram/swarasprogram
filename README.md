@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **swaradajoshi05@gmail.com**
 
