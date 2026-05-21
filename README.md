@@ -74,19 +74,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarasprogram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarasprogram&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarasprogram&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
----
-
 ### 🤝 Connect with me
 
 <div align="left">
