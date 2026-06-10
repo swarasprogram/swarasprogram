@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <p>🎓 IT undergrad @ VIT Pune &nbsp;·&nbsp; CGPA 8.89 / 10 &nbsp;·&nbsp; IBM-certified Full Stack Developer</p>
+  <p>🎓 IT undergrad @ VIT Pune &nbsp;·&nbsp; CGPA 9.04 / 10 &nbsp;·&nbsp; IBM-certified Full Stack Developer</p>
   <p>I build end-to-end systems — from React frontends to ML-powered backends — with a growing love for DevOps and infrastructure.</p>
 </div>
 
